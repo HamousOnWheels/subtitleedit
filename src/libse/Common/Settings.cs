@@ -683,7 +683,7 @@ $HorzAlign          =   Center
             WebVttCueAn5 = "line:50 %";
             WebVttCueAn6 = "position:80% line:50%";
             WebVttCueAn7 = "position:20% line:20%";
-            WebVttCueAn8 = "line:20%";
+            WebVttCueAn8 = "line:10%";
             WebVttCueAn9 = "position:80% line:20%";
 
             TeletextItalicFix = true;
