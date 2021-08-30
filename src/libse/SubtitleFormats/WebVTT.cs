@@ -146,7 +146,7 @@ namespace Nikse.SubtitleEdit.Core.SubtitleFormats
             }
 
             text = ColorHtmlToWebVtt(text);
-            text = EscapeEncodeText(text);
+            //text = EscapeEncodeText(text);
             return text;
         }
 
